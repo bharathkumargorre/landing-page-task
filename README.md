@@ -1,7 +1,6 @@
- HEAD
-# Responsive Landing Page
+# landing-page-task
 
-A simple responsive landing page built using HTML and CSS.
+This project is a simple responsive landing page built using HTML5 and CSS3 as part of a Web Development Internship task. A simple responsive landing page built using HTML and CSS.
 
 ## Features
 - Responsive design
@@ -9,6 +8,4 @@ A simple responsive landing page built using HTML and CSS.
 - Media queries
 - Hero section
 - Header and footer
-=======
-# landing-page-task
- fd3992b4e74aaa0c7cfe7e53f4f993a7466fadca
+====
