@@ -8,4 +8,3 @@ This project is a simple responsive landing page built using HTML5 and CSS3 as p
 - Media queries
 - Hero section
 - Header and footer
-====
